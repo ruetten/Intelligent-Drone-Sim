@@ -1,2 +1,2 @@
 # GA-Drones
-Experiement with creating genettic algorithm based search methods for networks of drones
+Experiment with creating genetic algorithm based search methods for networks of drones
